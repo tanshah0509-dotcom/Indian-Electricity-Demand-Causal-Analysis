@@ -87,5 +87,5 @@ tempers full confidence in the exact magnitude of -48.47.
   what a linear specification fully captures.
 
 ## Tools
-Python (pandas, statsmodels), Excel (PivotTables, cross-validation),
+Python (pandas, statsmodels, Matplotlib), Excel (PivotTables, cross-validation),
 Power BI (Power Query, comparative visualization)
